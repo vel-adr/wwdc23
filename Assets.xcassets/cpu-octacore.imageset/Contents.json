@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cpu-octacore.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

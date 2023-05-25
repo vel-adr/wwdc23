@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ram-8gb.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
